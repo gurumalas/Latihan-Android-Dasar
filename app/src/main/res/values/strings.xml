@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Form</string>
+    <string name="btpindah">Pindah Form</string>
+    <string name="btnhp">Pindah Ke Kontak</string>
+    <string name="btdata">Pindah Ke data</string>
+    <string name="btdterima">Pindah Data Diterima</string>
+    <string name="btmoveactiv">Pindah MoveActivty</string>
+</resources>
